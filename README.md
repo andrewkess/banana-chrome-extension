@@ -1,7 +1,7 @@
 
 # **Bananafier: A Chrome Extension**
 
-Transform your browsing experience into something delightfully surreal with **Bananafier**, a fun and experimental Chrome extension. Bananafier replaces a website's logo with... you guessed it—bananas! 🍌 Whether it's a gif or a PNG, your favorite logos will never look the same again.
+Transform your browsing experience into something delightfully surreal with **Bananafier**, a fun and experimental Chrome extension. Bananafier replaces a website's logo with... you guessed it—bananas! 🍌 
 
 ---
 

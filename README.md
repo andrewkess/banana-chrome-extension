@@ -22,7 +22,7 @@ Transform your browsing experience into something delightfully surreal with **Ba
 ## **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/bananafier.git
+   git clone https://github.com/andrewkess/bananafier.git
    ```
 2. Open Chrome and navigate to `chrome://extensions`.
 3. Enable **Developer mode** (toggle in the top-right corner).
